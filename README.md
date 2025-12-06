@@ -125,5 +125,3 @@ roverqa/
 ├── Dockerfile
 └── README.md
 ```
-
-cd
